@@ -1,4 +1,4 @@
-# priyasubburaj05.github.io
+# KORA Restaurant-Chatbot (BASIC)
  
 STEPS:
 Clone the repository and run the app.py file 
