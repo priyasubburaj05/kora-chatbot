@@ -1,5 +1,8 @@
 # KORA Restaurant-Chatbot (BASIC)
  
+ 
+ SMALL BASIC CHATBOT FOR A RESTAURANT
+ 
 STEPS:
 Clone the repository and run the app.py file 
 
